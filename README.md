@@ -29,4 +29,4 @@ goodreads-books-sql/
 3. Run the loader:
 	```bash
 	python load_data.py
-4. Open analysis.ipynb to explore SQL queries and charts
+4. Open Books_Data_Analysis.ipynb to explore SQL queries and charts
